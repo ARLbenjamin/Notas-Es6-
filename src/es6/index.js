@@ -6,7 +6,7 @@ function datos(nombre, edad, pais){
 
     console.log('Hola '+ name +' registraremos tu edad (' + age +') y pais (' + country +')');
 }
-// es6 wey
+// es6 way
 function datos2(name = 'JhonDoe', age = 18, country = 'La tierra del olvido'){
     console.log(`Hola ${name} registraremos tu edad (${age}) y pais (${country})`);
 };
