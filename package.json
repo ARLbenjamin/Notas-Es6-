@@ -1,0 +1,11 @@
+{
+  "name": "learnecmascript",
+  "version": "1.0.0",
+  "description": "aprendiendo ecmascript de manera mas completa ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ariel",
+  "license": "ISC"
+}
